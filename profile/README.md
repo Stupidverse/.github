@@ -31,3 +31,6 @@ We currently have a pretty simple list of goals, but they might be challenging c
 ## What about Juxtaposition? (Pretendo Networks Miiverse revival)
 
 Pretendo is a completely separate service, and while we respect their work, this is mostly being done because we don't like the UI, lol!
+
+## How can I help?
+The Stupidverse-Site repository holds all the code for the Portal UI (and later on ctr and off-device)! Currently off-device and ctr are not being worked on however if you want to start it you can!
